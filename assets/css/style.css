@@ -1,0 +1,174 @@
+
+.bdycolor
+{
+    background: url('light-veneer.png');
+    font-family: Georgia, Times, serif;
+    height: 980px;
+    width: 980px;
+}
+ 
+.topnav 
+{
+    background-color: whitesmoke;
+    margin: 25px;
+    height: 120px;
+    width: 120px;
+    border: #cccccc;
+    border-bottom-style: outset;
+}
+
+
+.navmyname
+{
+    background-color: #4aaaa5;
+    height: 120px;
+    width: 325px;
+    margin: 0px 0px 0px 220px;
+} 
+ 
+.myname
+{
+    position: relative;
+    top: 35px;
+    left: 10px;
+    padding: 12px;
+    font-size: xx-large;
+    color: white;
+}
+
+.navlinks
+{
+    position: relative;
+    top: 35px;
+    margin-right: 220px;
+    font-size: x-large;
+    font-style: italic;
+    color: #777777;
+}
+
+.pbox
+{
+    background-color: #ffffff;
+    height: 750px;
+    width: 600px;
+    margin: 20px 10px 20px 20px;
+    padding: 12px;
+    border: solid;
+    border-color: #dddddd;
+}
+
+.ptitle
+{
+    font-size: 40px;
+    font-style: italic;
+    color: #4aaaa5;
+    margin: 20px;
+    border: transparent;
+    border-bottom-width: 50px;
+    border-bottom-color: lightgray;
+}
+
+.Pimages
+{
+    position: relative;
+    width: 600px;
+    height: 700px;
+    margin: 5px 10px 15px 10px;
+}
+
+.pimag1
+{
+    max-width: 5%;
+    height: 5%;
+    position: auto;
+    padding: 5px;
+}
+
+.pimag2
+{
+    max-width: 80px;
+    height: 80px;
+    position: auto;
+    padding: 15px;
+}
+
+.pimag3
+{
+    max-width: 80px;
+    height: 80px;
+    position: auto;
+    padding: 15px;
+}
+
+/* 
+.colrfont
+{
+    color: #777777;
+}
+*/
+
+.cbox
+{
+    background-color: whitesmoke;
+    height: 270px;
+    width: 450px;
+    margin: 5px 10px 15px 10px;
+    /* margin: -790px 20px 550px 940px; */
+}
+
+.cwithme
+{
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    color: #4aaaa5;
+}
+
+.clinks
+{
+    height: 150px;
+    max-width: 450px;
+    padding: 15px 20px;
+}
+ 
+.clinkg
+{
+    max-width: 100px;
+    height: 100px;
+    position: auto;
+    padding: 15px;
+    /* padding: 5px 3px 7px 5px; */
+}
+
+.clinkl
+{
+    max-width: 100px;
+    height: 100px;
+    position: auto;
+    padding: 15px;
+    /* padding: 5px 3px 7px 5px; */
+}
+
+.clinksovr
+{
+    max-width: 100px;
+    height: 100px;
+    position: auto;
+    padding: 15px;
+    /* padding: 5px 3px 7px 5px; */
+}
+
+.bfoot
+{
+    background-color: #666666;
+    height: 50px;
+    margin: 25px;
+    padding: 100px;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    border: #cccccc; 
+    border-top-style: inset;
+}
+
